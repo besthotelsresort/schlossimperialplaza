@@ -1,0 +1,2 @@
+# schlossimperialplaza
+Static site: schlossimperialplaza
